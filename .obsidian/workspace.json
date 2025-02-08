@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "write_here/docs/01_eigensite_closure/01_responsiveness.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "01_responsiveness"
             }
           }
         ]
@@ -39,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +60,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "write_here/docs/01_eigensite_closure/01_responsiveness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +103,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01_responsiveness"
             }
           },
           {
@@ -103,10 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "write_here/docs/01_eigensite_closure/01_responsiveness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01_responsiveness"
             }
           },
           {
@@ -116,8 +129,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "write_here/docs/01_eigensite_closure/01_responsiveness.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01_responsiveness"
             }
           },
           {
@@ -135,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -143,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -155,7 +181,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -173,18 +201,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": true
     }
   },
   "active": "faead026aa1841dd",
   "lastOpenFiles": [
+    "write_here/docs/01_eigensite_closure/attachments/Pasted image 20250208170827.png",
+    "write_here/docs/01_eigensite_closure/attachments/Pasted image 20250208170627.png",
+    "write_here/docs/02_documentation/01_jekyll readme.md",
+    "write_here/docs/02_documentation/02_pagination.md",
+    "write_here/docs/01_eigensite_closure/01_responsiveness.md",
+    "write_here/docs/01_eigensite_closure/attachments/Pasted image 20250208164508.png",
+    "write_here/docs/01_eigensite_closure/attachments",
+    "write_here/docs/02_documentation",
+    "README.md",
     "attachments/Pasted image 20240120214426.png",
     "attachments/Pasted image 20240120214354.png",
     "attachments/Pasted image 20240120214240.png",
     "attachments",
     "mkdocs/docs/index.md",
-    "README.md",
     "mkdocs/docs/img/logo.afdesign",
     "mkdocs/docs/img/favicon.ico",
     "mkdocs/docs/img/favicon.png",
@@ -203,10 +238,8 @@
     "mkdocs/docs/1_chapter/1_motivation.md",
     "mkdocs/docs/1_chapter",
     "mkdocs/docs/2_chapter/1_motivation.md",
-    "mkdocs/docs/2_chapter",
     "mkdocs/docs/1_chapter_1/2_installation.md",
     "mkdocs/docs/1_chapter_1/1_motivation.md",
-    "mkdocs/docs/1_chapter_1",
     "mkdocs/docs/1_codes/2_installation.md",
     "mkdocs/docs/1_codes/1_motivation.md",
     "mkdocs/docs/2_workshop/1_motivation.md",
@@ -214,9 +247,6 @@
     "mkdocs/README.md",
     "mkdocs/docs/1_codes/4_contributing.md",
     "docs/css/fonts/fontawesome-webfont.svg",
-    "docs/img/logo.svg",
-    "mkdocs/site/css/fonts/fontawesome-webfont.svg",
-    "mkdocs/site/img/logo.svg",
     "admin/architecture.canvas",
     "admin/idp.md",
     "admin/7_meetings/Meeting - 2024-01-09.md",
@@ -224,10 +254,7 @@
     "admin/7_meetings/Untitled.canvas",
     "admin/6_logs/2023-12-18.md",
     "admin/7_meetings/Meeting - 2024-01-11.md",
-    "admin/readme.md",
-    "admin/7_meetings/Meeting - 2023-12-22.md",
     "paint.canvas",
-    "scripts/1_validation/1_no_crevasse/readme.md",
     "plan.canvas",
     "3_our_implementation/2_paper_problems/1_calibration/Untitled.canvas",
     "4_latex_source/paper structure.canvas"
